@@ -1,0 +1,1 @@
+# Industrial_Products_Defects_Detection
