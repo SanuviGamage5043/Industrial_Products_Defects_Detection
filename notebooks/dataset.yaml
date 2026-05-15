@@ -1,0 +1,13 @@
+
+path: ../dataset_yolo
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: blowhole
+  1: break
+  2: crack
+  3: fray
+  4: uneven
